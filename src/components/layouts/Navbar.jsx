@@ -1,5 +1,8 @@
 import style from './Navbar.module.css'
 function Navbar (){
-    return <p>navbar</p>
+    return( 
+        <div className={style.navbar}>navbar</div>
+    
+    )
 }
 export default Navbar
