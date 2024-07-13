@@ -1,0 +1,10 @@
+.cartaz{
+    padding: 15px;
+    display: flex;
+    justify-content: space-around;
+}
+.cartaz div{
+    background-color: #6f6f6f;
+    height: 200px;
+    width: 400px;
+}
