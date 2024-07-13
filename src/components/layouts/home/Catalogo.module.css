@@ -1,0 +1,9 @@
+.catalogo{
+    height: 800px;
+    width: 70%;
+    background-color:#d9d9d9 ;
+    margin-left: 50%;
+    margin-top: -15px;
+    margin-bottom: 10px;
+    transform: translate(-50%);
+}
