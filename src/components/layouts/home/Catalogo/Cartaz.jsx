@@ -1,7 +1,7 @@
 import style from './Cartaz.module.css'
 function Cartaz() {
     return (
-        <section className={style.cartaz}>
+        <section id='promocao' className={style.cartaz}>
             <div></div>
             <div></div>
         </section>

@@ -1,9 +1,11 @@
 import style from './Itens.module.css'
+import Item from './store/Itens'
 function Itens() {
     return (
-        <p className={style.itens}>
+        <section id='eletro' className={style.itens}>
             <h3>Itens</h3>
-        </p>
+            <Item/>
+        </section>
     )
 }
 export default Itens

@@ -1,4 +1,15 @@
+import style from './Grid.module.css'
+import Card from "../../../Cards/Card"
 function Calça(){
-    return <p>calça</p>
+    return (
+        <div className={style.grid}>
+            <Card/>
+            <Card/>
+            <Card/>
+            <Card/>
+            <Card/>
+            <Card/>
+        </div>
+    )
 }
 export default Calça
