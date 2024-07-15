@@ -1,0 +1,33 @@
+.card{
+    height: 250px;
+    width: 180px;
+    background-color: #6f6f6f;
+    
+    box-shadow: 0 0 1rem rgba(0,0, 0, .3);
+    color: black;
+}
+.card .div_img{
+    height: 220px;
+    background-color: white;
+
+}
+.card .price{
+    display: flex;
+    justify-content: space-around;
+}
+.card .price p{
+    margin-bottom: 0;
+    margin-top: 5px;
+    font-size: 15px;
+}
+.card .price div{
+    display: flex;
+    gap: 3px;
+}
+.card .price .valor{
+    font-weight: 700;
+}
+.card .price .tamanho{
+    color: #ff3c19;
+    font-weight: 500;
+}
