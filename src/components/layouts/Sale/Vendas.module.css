@@ -1,0 +1,46 @@
+.vendas{
+    height: 500px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 0 100px 0 100px;
+}
+/*---------CONFIGURAÇÃO DO CARD----------*/
+.card{
+    height: 400px;
+    width: 300px;
+    background-color: #ffffff;
+    box-shadow: 0 0 1rem rgba(0,0, 0, .3);
+    color: black;
+}
+.card .div_img{
+    height: 370px;
+    background-color: white;
+
+}
+.card .price{
+    display: flex;
+    justify-content: space-around;
+}
+.card .price p{
+    margin-bottom: 0;
+    margin-top: 5px;
+    font-size: 15px;
+}
+.card .price div{
+    display: flex;
+    gap: 3px;
+}
+.card .price .valor{
+    font-weight: 700;
+}
+.card .price .tamanho{
+    color: #ff3c19;
+    font-weight: 500;
+}
+/*---------CONFIGURAÇÃO DA AREA DE CONTATOS----------*/
+.vendas .contat{
+    height: 400px;
+    width: 400px;
+    background-color: #ffffff;
+}

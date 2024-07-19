@@ -1,4 +1,7 @@
+import Vendas from '../layouts/Sale/Vendas'
 function Sale (){
-    return <p>sale</p>
+    return (
+        <Vendas/>
+    )
 }
 export default Sale
