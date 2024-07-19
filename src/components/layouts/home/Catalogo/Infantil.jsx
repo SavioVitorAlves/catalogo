@@ -14,7 +14,6 @@ function Infantil() {
             <Calça/>
             <Short/>
             <Calçados/>
-            <Itens/>
         </section>
     )
 }
