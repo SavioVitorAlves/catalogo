@@ -11,6 +11,10 @@
     background-color: white;
 
 }
+.card .div_img img{
+    height: 100%;
+    width: 100%;
+}
 .card .price{
     display: flex;
     justify-content: space-around;
