@@ -9,17 +9,15 @@ function Vendas() {
             {data ? (
                 <>
             <div className={style.card}>
-            <div className={style.div_img}></div>
+            <div className={style.div_img}><img src={data.img} alt="" /></div>
             
             <div className={style.price}>
                 <div>
                 <p className={style.valor}>R$</p>
-                <p className={style.valor}>34,99</p>
+                <p className={style.valor}>{data.preco}</p>
                 </div>
                 <div>
-                    <p className={style.tamanho}>P</p>
-                    <p className={style.tamanho}>M</p>
-                    <p className={style.tamanho}>G</p>
+                    <p className={style.tamanho}>{data.tamanho}</p>
                 </div>
             </div>
         </div>
@@ -28,7 +26,21 @@ function Vendas() {
             <p>No data passed</p>
         )}
         <div className={style.contat}>
-            contatos vendedor
+            <p>Contatos Vendedores</p>
+            <div className={style.vendedores}>
+                <div>
+                    <p>Seguanda a Sabado de 08:00 as 11:00</p>
+                    <button ><a id='whats' href="https://api.whatsapp.com/send?phone=5563991080174" target='_blank' rel="noopener noreferrer">Nome Vendedor</a></button>
+                </div>
+                <div>
+                    <p>Seguanda a Sabado de 11:00 as 14:00</p>
+                    <button ><a id='whats' href="https://api.whatsapp.com/send?phone=5563991080174" target='_blank' rel="noopener noreferrer">Nome Vendedor</a></button>
+                </div>
+                <div>
+                    <p>Seguanda a Sabado de 14:00 as 18:00</p>
+                    <button ><a id='whats' href="https://api.whatsapp.com/send?phone=5563991080174" target='_blank' rel="noopener noreferrer">Nome Vendedor</a></button>
+                </div>
+            </div>
         </div>
         </section>
     )

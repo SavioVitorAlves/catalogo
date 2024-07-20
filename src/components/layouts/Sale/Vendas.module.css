@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&display=swap');
 .vendas{
     height: 500px;
     display: flex;
@@ -17,6 +18,10 @@
     height: 370px;
     background-color: white;
 
+}
+.card .div_img img{
+    height: 100%;
+    width: 100%;
 }
 .card .price{
     display: flex;
@@ -43,4 +48,28 @@
     height: 400px;
     width: 400px;
     background-color: #ffffff;
+    text-align: center;
+    padding-top: 15px;
+    font-family: 'Oswald';
+    font-size:25px;
+}
+.vendas .contat .vendedores{
+    margin-top: 50px;
+    font-size:18px;
+}
+.vendas .contat .vendedores p{
+    margin-bottom: 5px;
+}
+.vendas .contat .vendedores button{
+    border-radius: 5px;
+    height: 35px;
+    width: 200px;
+    border: none;
+    cursor: pointer;
+    background-color: green;
+    margin-bottom: 15px;
+}
+.vendas .contat .vendedores a{
+    text-decoration: none;
+    color: #ffffff;
 }
