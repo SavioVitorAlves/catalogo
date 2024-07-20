@@ -4,9 +4,47 @@
     align-items: center;
     height: 150px;
 }
-.category div {
-    height: 70px;
-    width: 70px;
+.category .item{
+    text-align: center;
+}
+.category .cicle {
+    height: 100px;
+    width: 100px;
     border-radius: 50%;
     background-color: #6f6f6f;
+    overflow: hidden;
+}
+.category .cicle .feminino{
+    height: 120px;
+    width: 110px;
+    margin-top: 5px;
+}
+.category .cicle .masculino{
+    height: 120px;
+    width: 130px;
+    margin:5px 40px 0 -15px;
+}
+.category .cicle .infantil{
+    height: 110px;
+    width: 100px;
+    margin: 5px 0 0 -5px;
+}
+.category .cicle .celulares{
+    height: 80px;
+    width: 90px;
+    margin-top: 10px;
+}
+.category .cicle .perfumes{
+    height: 90px;
+    width: 90px;
+    margin-top: 5px;
+}
+.category .cicle .vestidos{
+    height: 160px;
+    width: 140px;
+    margin: -5px 0 0 -30px;
+}
+.category .cicle .tenis{
+    height: 100px;
+    width: 90px;
 }
