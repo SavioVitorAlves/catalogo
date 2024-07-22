@@ -20,7 +20,7 @@
     color: rgb(165, 165, 165);
 }
 .navbar div {
-    width: 150px;
+    width: auto;
     display: flex;
     justify-content: space-between;
 }
@@ -38,4 +38,23 @@
 }
 .navbar div button a{
     color: white;
+}
+/*------- RESPONSIVIDADE------*/
+@media screen  and (max-width: 670px){
+    .navbar{
+        padding: 0 20px 0 20px;
+        justify-content: space-between;
+    }
+    .navbar nav{
+        width: 290px;
+        display: flex;
+        justify-content: space-between;
+    }
+}
+@media screen  and (max-width: 500px){
+    .navbar nav{
+        
+        display: none;
+        
+    }
 }

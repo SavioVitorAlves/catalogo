@@ -24,3 +24,19 @@ body{
   left: 50%;
   transform: translate(-50%, -50%);
 }
+/*---------RESPONSIVIDADE--------*/
+@media screen  and (max-width: 700px){
+  .icon_whatsapp {
+    height: 50px;
+    width: 50px;
+    bottom: 10px;
+    right: 10px;
+  }
+  .icon_whatsapp a{
+    font-size: 1.3rem;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+}

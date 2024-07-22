@@ -7,3 +7,19 @@
     margin-bottom: 10px;
     transform: translate(-50%);
 }
+/*------RESPOSIVIDADE---------*/
+@media screen  and (max-width: 1100px){
+    .catalogo{
+        width: 90%;
+    }
+}
+@media screen  and (max-width: 700px){
+    .catalogo{
+        width: 95%;
+    }
+}
+@media screen  and (max-width: 700px){
+    .catalogo{
+        margin-top: -5px;
+    }
+}

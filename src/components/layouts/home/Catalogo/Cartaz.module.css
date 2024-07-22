@@ -8,3 +8,31 @@
     height: 200px;
     width: 400px;
 }
+/*-----RESPONSIVIDADE----------*/
+@media screen  and (max-width: 1180px){
+    .cartaz div{
+        height: 150px;
+        width: 300px;
+    }
+    .cartaz div img{
+        height: 150px;
+        width: 300px;
+    }
+}
+@media screen  and (max-width: 670px){
+    .cartaz{
+        flex-direction: column;
+        gap: 10px;
+        align-items: center;
+    }
+}
+@media screen  and (max-width: 670px){
+    .cartaz div{
+        height: 150px;
+        width: 280px;
+    }
+    .cartaz div img{
+        height: 150px;
+        width: 280px;
+    }
+}

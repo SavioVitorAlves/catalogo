@@ -6,3 +6,21 @@
     justify-content: space-around;
     row-gap: 20px;
 }
+/*-------RESPONSIVIDADE---------*/
+@media screen  and (max-width: 860px){
+    .grid{
+        grid-template-columns: auto auto auto;
+    }
+}
+@media screen  and (max-width: 620px){
+    .grid{
+        grid-template-columns: auto auto;
+        
+        padding: 5px;
+    }
+}
+@media screen  and (max-width: 320px){
+    .grid{
+        justify-content: space-between;
+    }
+}

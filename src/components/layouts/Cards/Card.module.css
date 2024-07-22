@@ -35,3 +35,31 @@
     color: #ff3c19;
     font-weight: 500;
 }
+/*-------RESPONSIVIDADE----------*/
+@media screen  and (max-width: 450px){
+    .card{
+        height: 200px;
+        width: 150px;
+    }
+    .card .div_img{
+        height: 180px;
+    }
+    .card .price p{
+        margin-top: 0;
+        font-size: 13px;
+    }
+}
+@media screen  and (max-width: 360px){
+    .card{
+        height: 200px;
+        width: 140px;
+    }
+    .card .div_img{
+        height: 180px;
+    }
+    .card .price p{
+        margin-top: 0;
+        font-size: 13px;
+    }
+}
+
