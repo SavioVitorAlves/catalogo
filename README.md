@@ -1,70 +1,107 @@
-# Getting Started with Create React App
+<h1 align="center">
+  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./assets/banner.png" />
+</h1>
+<h1 align="center">Catalogo</h1>
+<p align="center"> Catalogo, projeto desenvolvido com foco em empresas que queiram apresentar seus produtos de uma forma mais pratica e professional!</p>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<p align="center">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/saviovitoralves/catalogo?color=%2304D361">
 
-## Available Scripts
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/saviovitoralves/catalogo">
 
-In the project directory, you can run:
+  <a href="https://github.com/saviovitoralves/catalogo/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/saviovitoralves/catalogo">
+  </a>
+    
+   <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
+   <a href="https://github.com/saviovitoralves/catalogo/stargazers">
+    <img alt="Stargazers" src="https://img.shields.io/github/stars/saviovitoralves/catalogo?style=social">
+  </a>
+  
+</p>
 
-### `npm start`
+<h4 align="center"> 
+	🚧  Catalogo 🚀 Pre Finalizado...  🚧
+</h4>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## 💻 Sobre o projeto
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+👗👔 Catalogo - Este projeto é um site desenvolvido em React que apresenta o catálogo de produtos de uma loja de roupas. O objetivo principal é proporcionar uma experiência de navegação fluida e intuitiva para os visitantes, permitindo que eles explorem as coleções de roupas e sejam direcionados facilmente para entrar em contato com os vendedores.
 
-### `npm test`
+---
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## ⚙️ Funcionalidades
+- [x] Catálogo de Produtos:
+    - [x] Exibição de produtos organizados por categorias.
+    - [x] Detalhes dos produtos, incluindo imagens, tamanho e preços.
+- [x] Os usuários tem acesso ao aplicativo móvel, onde podem:
+  - [x] navegar pela pagina para ve os podutos disponiveis 
+  - [x] entrar em contato com a entidade ou vendedores através do WhatsApp
 
-### `npm run build`
+---
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### Processo
+- [x] Criação do prototipo
+- [x] Esqueto basico
+- [x] Area de produtos
+- [x] Pagina de contatos
+- [x] API Whatsapp
+- [ ] Banco de Dados
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### Pré-requisitos
 
-### `npm run eject`
+Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
+[Git](https://git-scm.com), [Node.js](https://nodejs.org/en/). 
+Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+### 🎲 Rodando o Front End
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+```bash
+# Clone este repositório
+$ git clone <https://github.com/saviovitoralves/catalogo>
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+# Acesse a pasta do projeto no terminal/cmd
+$ cd catalogo
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+# Instale as dependências
+$ npm install
 
-## Learn More
+# Execute a aplicação em modo de desenvolvimento
+$ npm start
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+# A aplicação inciará na porta:3000 - acesse <http://localhost:3000>
+```
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+### 🛠 Tecnologias
 
-### Code Splitting
+As seguintes ferramentas foram usadas na construção do projeto:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+- [Javascrip](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+- [Node.js](https://nodejs.org/en/)
+- [React](https://pt-br.reactjs.org/)
+- [Bootstrap](https://getbootstrap.com/)
+- ### Autor
+---
 
-### Analyzing the Bundle Size
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+ <img style="border-radius: 50%;" src="https://avatars3.githubusercontent.com/u/380327?s=460&u=61b426b901b8fe02e12019b1fdb67bf0072d4f00&v=4" width="100px;" alt=""/>
+ <br />
+ <sub><b>Savio Vitor</b></sub></a> 🚀
 
-### Making a Progressive Web App
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+Feito com ❤️ por Savio Vitor 👋🏽 Entre em contato!
 
-### Advanced Configuration
+[![Instagram Badge](https://img.shields.io/badge/-@saviovitoralves-%237519C1?style=flat-square&labelColor=%237519C1&logo=Instagram&logoColor=white&link=https://instagram.com/saviovitoralves)](https://instagram.com/saviovitoralves) [![Linkedin Badge](https://img.shields.io/badge/-Savio_Vitor-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/saviovitoralves/)](https://www.linkedin.com/in/saviovitoralves/) 
+[![Gmail Badge](https://img.shields.io/badge/-saviovitor2@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:saviovitor2@gmail.com)](mailto:saviovitor2@gmail.com)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
 
-### Deployment
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+## 📝 Licença
 
-### `npm run build` fails to minify
+Este projeto esta sobe a licença [MIT](./LICENSE).
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Feito com ❤️ por Savio Viotr 👋🏽 [Entre em contato!](https://www.linkedin.com/in/saviovioralves/)
+
+---
