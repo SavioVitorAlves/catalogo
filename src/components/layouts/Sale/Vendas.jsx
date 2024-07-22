@@ -37,7 +37,7 @@ function Vendas() {
                     <button ><a id='whats' href="https://api.whatsapp.com/send?phone=5563991080174" target='_blank' rel="noopener noreferrer">Nome Vendedor</a></button>
                 </div>
                 <div>
-                    <p>Seguanda a Sabado de 14:00 as 18:00</p>
+                    <p>Seguanda a Sabado de 14:00 as 17:00</p>
                     <button ><a id='whats' href="https://api.whatsapp.com/send?phone=5563991080174" target='_blank' rel="noopener noreferrer">Nome Vendedor</a></button>
                 </div>
             </div>
