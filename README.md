@@ -1,6 +1,4 @@
-<h1 align="center">
-  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./assets/banner.png" />
-</h1>
+
 <h1 align="center">Catalogo</h1>
 <p align="center"> Catalogo, projeto desenvolvido com foco em empresas que queiram apresentar seus produtos de uma forma mais pratica e profissional!</p>
 
