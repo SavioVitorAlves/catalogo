@@ -2,7 +2,7 @@
   <img alt="NextLevelWeek" title="#NextLevelWeek" src="./assets/banner.png" />
 </h1>
 <h1 align="center">Catalogo</h1>
-<p align="center"> Catalogo, projeto desenvolvido com foco em empresas que queiram apresentar seus produtos de uma forma mais pratica e professional!</p>
+<p align="center"> Catalogo, projeto desenvolvido com foco em empresas que queiram apresentar seus produtos de uma forma mais pratica e profissional!</p>
 
 <p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/saviovitoralves/catalogo?color=%2304D361">
@@ -84,17 +84,17 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - ### Autor
 ---
 
-
- <img style="border-radius: 50%;" src="https://avatars3.githubusercontent.com/u/380327?s=460&u=61b426b901b8fe02e12019b1fdb67bf0072d4f00&v=4" width="100px;" alt=""/>
+<a>
+ <img border-radius= 50%; src="https://media.licdn.com/dms/image/v2/D4D03AQFzQ8EE_uDELQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1713567713570?e=1729728000&v=beta&t=ujHAU4WTfFEDji8f0vgADSrgb2fOJ12JXHoZQhkYvuU" width="100px;" alt="linkedin"/>
  <br />
- <sub><b>Savio Vitor</b></sub></a> 🚀
+ <sub><b>Savio Vitor</b></sub></a> <a href="https://www.linkedin.com/in/saviovitoralves/" title="Linkedin">🚀</a>
 
 
 Feito com ❤️ por Savio Vitor 👋🏽 Entre em contato!
 
 [![Instagram Badge](https://img.shields.io/badge/-@saviovitoralves-%237519C1?style=flat-square&labelColor=%237519C1&logo=Instagram&logoColor=white&link=https://instagram.com/saviovitoralves)](https://instagram.com/saviovitoralves) [![Linkedin Badge](https://img.shields.io/badge/-Savio_Vitor-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/saviovitoralves/)](https://www.linkedin.com/in/saviovitoralves/) 
 [![Gmail Badge](https://img.shields.io/badge/-saviovitor2@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:saviovitor2@gmail.com)](mailto:saviovitor2@gmail.com)
-
+[![Whatsapp Badge](https://img.shields.io/badge/-Savio_Vitor-green?style=flat-square&logo=Whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5563991080174)](https://api.whatsapp.com/send?phone=5563991080174)
 
 ---
 
@@ -102,6 +102,6 @@ Feito com ❤️ por Savio Vitor 👋🏽 Entre em contato!
 
 Este projeto esta sobe a licença [MIT](./LICENSE).
 
-Feito com ❤️ por Savio Viotr 👋🏽 [Entre em contato!](https://www.linkedin.com/in/saviovioralves/)
+Feito com ❤️ por Savio Viotr 👋🏽 [Entre em contato!](https://api.whatsapp.com/send?phone=5563991080174)
 
 ---
